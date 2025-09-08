@@ -4,5 +4,8 @@ public class Main {
     }
     public static void main(String[] args) {
         System.out.println("Olá, GitHub!");
+
+        int result = somar(5,6);
+        System.out.println(result);
     }
 }
